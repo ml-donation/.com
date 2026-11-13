@@ -1,0 +1,8 @@
+name = "ml-donation-api"
+main = "ml-donation-worker.js"
+compatibility_date = "2026-11-13"
+
+[vars]
+JSONBIN_BIN_ID = "6af66e3fac6210605a83e112"
+ALLOWED_ORIGINS = "*"
+SUPABASE_BUCKET = "payment-proofs"
